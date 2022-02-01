@@ -38,5 +38,5 @@ plot ROC_AUC curve
 
 ## Links
 
-[Repository]
-[Slides]
+[Trello](https://trello.com/b/cFXR2Fy7/group6project7)
+[Slides](https://trello.com/b/0aA3l11U/project-6-swift-payment)
